@@ -1,0 +1,68 @@
+C_R_U_D: 
+
+Enter your choice: 
+1.Create
+2.Read
+3.Update
+4.Delete
+1
+Enter task number: 01
+Enter task name: addition
+Enter task details: add 2 + 3
+Enter your choice: 
+1.Create
+2.Read
+3.Update
+4.Delete
+1
+Enter task number: 02
+Enter task name: subtract
+Enter task details: subtract5-3
+Enter your choice: 
+1.Create
+2.Read
+3.Update
+4.Delete
+1
+Enter task number: 03
+Enter task name: multiplication
+Enter task details: multiply 2 * 8
+Enter your choice: 
+1.Create
+2.Read
+3.Update
+4.Delete
+2
+1 addition add 2 + 3
+2 subtract subtract5-3
+3 multiplication multiply 2 * 8
+ 
+Enter your choice: 
+1.Create
+2.Read
+3.Update
+4.Delete
+3
+Enter number1 to Update: 
+9
+ 
+Data is updated Successfully.
+Data is updated Successfully.
+Data is updated Successfully.
+Enter your choice: 
+1.Create
+2.Read
+3.Update
+4.Delete
+4
+Enter Number to Delete: 
+9
+ 
+Data is deleted Successfully.
+Data is deleted Successfully.
+Data is deleted Successfully.
+Enter your choice: 
+1.Create
+2.Read
+3.Update
+4.Delete
